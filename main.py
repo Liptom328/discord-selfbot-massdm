@@ -7,7 +7,7 @@ channels = input("Channel ID: ")
 times = input("Seconds between messages: ")
 
 @bot.gateway.command
-def higuy(resp): # sending me dms will be started after typing "higuy"
+def higuy(resp): # sending messages will be started after typing "higuy"
     if resp.event.ready_supplemental:
         bot.gateway.fetchMembers(guilds, channels)
     if bot.gateway.finishedMemberFetching(guilds):
