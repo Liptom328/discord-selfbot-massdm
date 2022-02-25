@@ -1,6 +1,6 @@
 # Discord Selfbot Massdm
 
-[![Hits](https://hits.deltapapa.io/github/Liptom328/react-native-calculator.svg)](https://hits.deltapapa.io)
+[![Hits](https://hits.deltapapa.io/github/Liptom328/discord-selfbot-massdm.svg)](https://hits.deltapapa.io)
 
 Created by [Liptom328](https://github.com/Liptom328)
 
