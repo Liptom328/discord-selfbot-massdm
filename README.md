@@ -1,4 +1,4 @@
-# Discord Selfbot Massdm
+# Discord Selfbot MassDM
 
 [![Hits](https://hits.deltapapa.io/github/Liptom328/discord-selfbot-massdm.svg)](https://hits.deltapapa.io)
 
@@ -12,7 +12,7 @@ Copy the github repository using `git clone https://github.com/Liptom328/discord
 
 1. Enter your **user token** in the [main.py](https://github.com/Liptom328/discord-selfbot-massdm/blob/master/main.py) file.
 2. Run the selfbot.
-3. Enter ID of the guild you want to massdm and channel ID that is in the server you want to massdm.
+3. Enter ID of the guild you want to massDM and channel ID that is in the server you want to massDM.
 4. Type `higuy` on the channel you set.
 5. Wait for selfbot start working.
 
